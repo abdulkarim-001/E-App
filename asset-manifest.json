@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/E-App/static/css/main.8ef6e06e.css",
+    "main.js": "/E-App/static/js/main.9e554370.js",
+    "static/js/787.62f4cf24.chunk.js": "/E-App/static/js/787.62f4cf24.chunk.js",
+    "static/media/Bag3.gif": "/E-App/static/media/Bag3.969de51850fe1021e085.gif",
+    "static/media/montez-all-400-normal.woff": "/E-App/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
+    "static/media/montez-latin-400-normal.woff2": "/E-App/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
+    "static/media/logo.svg": "/E-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/E-App/index.html",
+    "main.8ef6e06e.css.map": "/E-App/static/css/main.8ef6e06e.css.map",
+    "main.9e554370.js.map": "/E-App/static/js/main.9e554370.js.map",
+    "787.62f4cf24.chunk.js.map": "/E-App/static/js/787.62f4cf24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef6e06e.css",
+    "static/js/main.9e554370.js"
+  ]
+}
